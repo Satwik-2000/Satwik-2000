@@ -1,25 +1,9 @@
-### Hi there 👋
+### Hello 👋 I'm Satwik Ghosh
 
-<!--
-**Satwik-2000/Satwik-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-telescope I’m currently working on Deep Learning with Pytorch
-seedling I’m currently learning Differential Privacy
-dancers I’m looking to collaborate with OpenMined
-thinking I’m looking for help with Huggingface Transformers and Competitive Programming
-speech_balloon Ask me about anything, Except Maths sweat_smile
-man_technologist Life Hack: Learn new tech fire and share what you have learned tada
-zap Fun fact: I waste most of my time playing games
-![image](https://user-images.githubusercontent.com/57412553/121234936-e6178600-c8b1-11eb-9d30-1f436599b2ed.png)
+- 🔭 I’m currently working on `Deep Learning with Pytorch`
+- 🌱 I’m currently learning `Differential Privacy`
+- 👯 I’m looking to collaborate with `OpenMinded`
+- 🤔 I’m looking for help with `Huggingface Transformers and Competitive Programming`
+- 💬 Ask me about anything, Except Maths
+- ⚡ Fun fact: I waste most of my time playing games
